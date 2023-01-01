@@ -5,6 +5,6 @@ This simple tank shooter game was made by following youtube tutorials on C# and 
 * The mouse cursor controls the facing direction of the tank
 * Space bar is used to shoot bullets
 # Goal
-* Shoot as many red enemys that float towards you.
+* Shoot as many red enemies that float towards you.
 * The counter at the top will display the number of enemies defeated.
 * Once an enemy touches the user (tank) the game will end.
